@@ -1,0 +1,138 @@
+fileFormatVersion: 2
+guid: 53ab82c84641e674d83aca070261154f
+timeCreated: 1451068244
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Game_Counters_Coins
+    21300002: Game_Counters_Health
+    21300004: Game_Counters_Energy
+    21300006: Game_Counters_Stars
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Game_Counters_Coins
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 126
+        width: 236
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 94, y: 38.5}
+        - {x: 42, y: 51.5}
+        - {x: -104, y: 51.5}
+        - {x: -118, y: 43.5}
+        - {x: -118, y: -42.5}
+        - {x: -99, y: -51.5}
+        - {x: 57, y: -51.5}
+        - {x: 115, y: -40.5}
+        - {x: 118, y: -25.5}
+        - {x: 118, y: 31.5}
+    - name: Game_Counters_Health
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 134
+        width: 211
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -105.5, y: 45.5}
+        - {x: -105.5, y: -17.5}
+        - {x: -95.5, y: -45.5}
+        - {x: 8.5, y: -45.5}
+        - {x: 105.5, y: -30.5}
+        - {x: 105.5, y: 40.5}
+        - {x: 65.5, y: 45.5}
+    - name: Game_Counters_Energy
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 221
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: 51}
+        - {x: -105.5, y: 51}
+        - {x: -109.5, y: 33}
+        - {x: -110.5, y: 30}
+        - {x: -110.5, y: -51}
+        - {x: 110.5, y: -51}
+        - {x: 110.5, y: 39}
+        - {x: 106.5, y: 44}
+    - name: Game_Counters_Stars
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 14
+        width: 204
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81, y: 47}
+        - {x: -102, y: 22}
+        - {x: -102, y: -2}
+        - {x: -89, y: -47}
+        - {x: 91, y: -47}
+        - {x: 102, y: -36}
+        - {x: 102, y: 29}
+        - {x: 51, y: 47}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,539 @@
+fileFormatVersion: 2
+guid: 6ef8be71b9e26674081d44836508734d
+timeCreated: 1451045247
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GUI_MainMenu_Buttons_Add_Normal
+    21300002: GUI_MainMenu_Buttons_Pause_Normal
+    21300004: GUI_MainMenu_Buttons_Play_Normal
+    21300006: GUI_MainMenu_Buttons_Question_Normal
+    21300008: GUI_MainMenu_Buttons_Music_Normal
+    21300010: GUI_MainMenu_Buttons_Wireless_Normal
+    21300012: GUI_MainMenu_Buttons_Shop_Normal
+    21300014: GUI_MainMenu_Buttons_Trophy_Normal
+    21300016: GUI_MainMenu_Buttons_Highscore_Normal
+    21300018: GUI_MainMenu_Buttons_Social_Normal
+    21300020: GUI_MainMenu_Buttons_Accept_Normal
+    21300022: GUI_MainMenu_Buttons_Reject_Normal
+    21300024: GUI_MainMenu_Buttons_Add_Clicked
+    21300026: GUI_MainMenu_Buttons_Pause_Clicked
+    21300028: GUI_MainMenu_Buttons_Play_Clicked
+    21300030: GUI_MainMenu_Buttons_Question_Clicked
+    21300032: GUI_MainMenu_Buttons_Music_Clicked
+    21300034: GUI_MainMenu_Buttons_Wireless_Clicked
+    21300036: GUI_MainMenu_Buttons_Shop_Clicked
+    21300038: GUI_MainMenu_Buttons_Trophy_Clicked
+    21300040: GUI_MainMenu_Buttons_Highscore_Clicked
+    21300042: GUI_MainMenu_Buttons_Social_Clicked
+    21300044: GUI_MainMenu_Buttons_Accept_Clicked
+    21300046: GUI_MainMenu_Buttons_Reject_Clicked
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: GUI_MainMenu_Buttons_Add_Normal
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 282
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 37.5}
+        - {x: -25, y: 37.5}
+        - {x: -37, y: 26.5}
+        - {x: -37, y: -22.5}
+        - {x: -32, y: -37.5}
+        - {x: 23, y: -37.5}
+        - {x: 36, y: -28.5}
+        - {x: 37, y: -22.5}
+        - {x: 37, y: 24.5}
+    - name: GUI_MainMenu_Buttons_Pause_Normal
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 282
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 37.5}
+        - {x: -37, y: 21.5}
+        - {x: -37, y: -25.5}
+        - {x: -26, y: -37.5}
+        - {x: 22, y: -37.5}
+        - {x: 37, y: -27.5}
+        - {x: 37, y: 26.5}
+        - {x: 20, y: 37.5}
+    - name: GUI_MainMenu_Buttons_Play_Normal
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 282
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 37.5}
+        - {x: -34, y: 37.5}
+        - {x: -37, y: 28.5}
+        - {x: -37, y: -35.5}
+        - {x: -36, y: -37.5}
+        - {x: 33, y: -37.5}
+        - {x: 37, y: -29.5}
+        - {x: 37, y: 20.5}
+        - {x: 36, y: 27.5}
+    - name: GUI_MainMenu_Buttons_Question_Normal
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 282
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 37.5}
+        - {x: -37, y: 35.5}
+        - {x: -37, y: -21.5}
+        - {x: -36, y: -26.5}
+        - {x: -30, y: -37.5}
+        - {x: 37, y: -37.5}
+        - {x: 37, y: 37.5}
+    - name: GUI_MainMenu_Buttons_Music_Normal
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 282
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 37.5}
+        - {x: -37, y: -37.5}
+        - {x: 20, y: -37.5}
+        - {x: 27, y: -32.5}
+        - {x: 37, y: -22.5}
+        - {x: 37, y: 37.5}
+    - name: GUI_MainMenu_Buttons_Wireless_Normal
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 282
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 37.5}
+        - {x: -37, y: -31.5}
+        - {x: -32, y: -37.5}
+        - {x: 25, y: -37.5}
+        - {x: 37, y: -31.5}
+        - {x: 37, y: 37.5}
+    - name: GUI_MainMenu_Buttons_Shop_Normal
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 189
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 37.5}
+        - {x: -37, y: 27.5}
+        - {x: -37, y: -22.5}
+        - {x: -23, y: -37.5}
+        - {x: 37, y: -37.5}
+        - {x: 37, y: 37.5}
+    - name: GUI_MainMenu_Buttons_Trophy_Normal
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 189
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 37.5}
+        - {x: -37, y: 25.5}
+        - {x: -37, y: -27.5}
+        - {x: -25, y: -37.5}
+        - {x: 21, y: -37.5}
+        - {x: 37, y: -30.5}
+        - {x: 37, y: 31.5}
+        - {x: 33, y: 37.5}
+    - name: GUI_MainMenu_Buttons_Highscore_Normal
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 189
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 37.5}
+        - {x: -37, y: 30.5}
+        - {x: -37, y: -28.5}
+        - {x: -36, y: -30.5}
+        - {x: -30, y: -37.5}
+        - {x: 27, y: -37.5}
+        - {x: 37, y: -34.5}
+        - {x: 37, y: 30.5}
+        - {x: 25, y: 37.5}
+    - name: GUI_MainMenu_Buttons_Social_Normal
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 189
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: 37.5}
+        - {x: -32, y: 37.5}
+        - {x: -37, y: 27.5}
+        - {x: -37, y: -21.5}
+        - {x: -36, y: -29.5}
+        - {x: -24, y: -37.5}
+        - {x: 21, y: -37.5}
+        - {x: 31, y: -35.5}
+        - {x: 37, y: -25.5}
+        - {x: 37, y: 25.5}
+        - {x: 36, y: 29.5}
+    - name: GUI_MainMenu_Buttons_Accept_Normal
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 187
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 37.5}
+        - {x: -37, y: 22.5}
+        - {x: -37, y: -16.5}
+        - {x: -35, y: -20.5}
+        - {x: -31, y: -26.5}
+        - {x: -25, y: -31.5}
+        - {x: -19, y: -35.5}
+        - {x: -15, y: -37.5}
+        - {x: 20, y: -37.5}
+        - {x: 37, y: -27.5}
+        - {x: 37, y: 29.5}
+        - {x: 32, y: 37.5}
+    - name: GUI_MainMenu_Buttons_Reject_Normal
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 187
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 37.5}
+        - {x: -37, y: -37.5}
+        - {x: 36, y: -37.5}
+        - {x: 37, y: -35.5}
+        - {x: 37, y: 32.5}
+        - {x: 28, y: 37.5}
+    - name: GUI_MainMenu_Buttons_Add_Clicked
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 95
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 35}
+        - {x: -16, y: 35}
+        - {x: -35, y: 30}
+        - {x: -35, y: -23}
+        - {x: -25, y: -35}
+        - {x: 20, y: -35}
+        - {x: 35, y: -29}
+        - {x: 35, y: 17}
+        - {x: 31, y: 22}
+    - name: GUI_MainMenu_Buttons_Pause_Clicked
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 95
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 35}
+        - {x: -20, y: 35}
+        - {x: -35, y: 20}
+        - {x: -35, y: -25}
+        - {x: -20, y: -35}
+        - {x: 30, y: -35}
+        - {x: 35, y: -21}
+        - {x: 35, y: 25}
+        - {x: 24, y: 34}
+    - name: GUI_MainMenu_Buttons_Play_Clicked
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 95
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: 35}
+        - {x: -35, y: 33}
+        - {x: -35, y: -30}
+        - {x: -30, y: -35}
+        - {x: 22, y: -35}
+        - {x: 35, y: -28}
+        - {x: 35, y: 35}
+    - name: GUI_MainMenu_Buttons_Question_Clicked
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 95
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 35}
+        - {x: -34.5, y: 23}
+        - {x: -35.5, y: 20}
+        - {x: -35.5, y: -24}
+        - {x: -26.5, y: -35}
+        - {x: 17.5, y: -35}
+        - {x: 35.5, y: -29}
+        - {x: 35.5, y: 22}
+        - {x: 20.5, y: 35}
+    - name: GUI_MainMenu_Buttons_Music_Clicked
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 95
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 35}
+        - {x: -35, y: 28}
+        - {x: -35, y: -28}
+        - {x: -19, y: -35}
+        - {x: 24, y: -35}
+        - {x: 35, y: -24}
+        - {x: 35, y: 30}
+        - {x: 24, y: 35}
+    - name: GUI_MainMenu_Buttons_Wireless_Clicked
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 95
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.5, y: -20}
+        - {x: -29.5, y: -35}
+        - {x: 35.5, y: -35}
+        - {x: 35.5, y: 27}
+        - {x: 30.5, y: 35}
+        - {x: -24.5, y: 35}
+        - {x: -35.5, y: 25}
+    - name: GUI_MainMenu_Buttons_Shop_Clicked
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 35}
+        - {x: -18, y: 35}
+        - {x: -24, y: 29}
+        - {x: -35, y: 20}
+        - {x: -35, y: -20}
+        - {x: -31, y: -35}
+        - {x: 34, y: -35}
+        - {x: 35, y: -30}
+        - {x: 35, y: 27}
+        - {x: 26, y: 33}
+    - name: GUI_MainMenu_Buttons_Trophy_Clicked
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 2
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 35}
+        - {x: -35, y: 31}
+        - {x: -35, y: -24}
+        - {x: -28, y: -35}
+        - {x: 31, y: -35}
+        - {x: 35, y: -24}
+        - {x: 35, y: 30}
+        - {x: 29, y: 35}
+    - name: GUI_MainMenu_Buttons_Highscore_Clicked
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 2
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 35}
+        - {x: -35, y: 35}
+        - {x: -35, y: -24}
+        - {x: -31, y: -35}
+        - {x: 19, y: -35}
+        - {x: 35, y: -25}
+        - {x: 35, y: 26}
+    - name: GUI_MainMenu_Buttons_Social_Clicked
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 2
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 35}
+        - {x: -35.5, y: 29}
+        - {x: -35.5, y: -20}
+        - {x: -25.5, y: -35}
+        - {x: 25.5, y: -35}
+        - {x: 35.5, y: -30}
+        - {x: 35.5, y: 32}
+        - {x: 30.5, y: 35}
+    - name: GUI_MainMenu_Buttons_Accept_Clicked
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 0
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 35}
+        - {x: -35, y: 22}
+        - {x: -35, y: -32}
+        - {x: -33, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 21}
+        - {x: 20, y: 35}
+    - name: GUI_MainMenu_Buttons_Reject_Clicked
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 0
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 35}
+        - {x: -35, y: 28}
+        - {x: -35, y: -25}
+        - {x: -32, y: -35}
+        - {x: 33, y: -35}
+        - {x: 35, y: -31}
+        - {x: 35, y: 28}
+        - {x: 22, y: 35}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
