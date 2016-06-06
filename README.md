@@ -25,7 +25,7 @@ You can get the plugin using one of the methods below
 * Clone the github repo
     * https://github.com/huthaifa-abd/Menu-Manager-Plugin-Unity3D
 * Download the pre built package using the link below
-    * https://github.com/huthaifa-abd/Menu-Manager-Plugin-Unity3D/blob/master/UnityPackage-v0.1/Menu-Manager-Unity-Package-v0.1.unitypackage
+    * https://github.com/huthaifa-abd/Menu-Manager-Plugin-Unity3D/raw/master/Unity-Package-v0.1/Menu-Manager-Unity-Package-v0.1.unitypackage
 
 Once done start unity and follow the instruction below ,
 
