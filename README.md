@@ -51,9 +51,9 @@ Want to contribute? Great! Just submit a pull request and ill add it to the proj
 
 ### Todos
 
- - Add more generation tools
+ - Add Button Generator
  - Make Real time API
- - Add Gravity Fields
+ - Add more shortcut functionality
 
 License
 ----
